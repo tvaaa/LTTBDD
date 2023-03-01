@@ -1,7 +1,7 @@
 import 'dart:io';
 void cau1(){
   File file = File('hello.txt');
-  file.writeAsStringSync('BuiThiQuynh');
+  file.writeAsStringSync('TranVietAnh');
 }
 void cau2(){
   File file = File('hello.txt');
@@ -48,3 +48,4 @@ void cau7(){
 void main(){
   cau6();
 }
+//hello???
